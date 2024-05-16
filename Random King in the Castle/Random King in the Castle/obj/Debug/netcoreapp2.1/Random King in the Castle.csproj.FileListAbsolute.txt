@@ -1,0 +1,11 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\bin\Debug\netcoreapp2.1\Random King in the Castle.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\bin\Debug\netcoreapp2.1\Random King in the Castle.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\bin\Debug\netcoreapp2.1\Random King in the Castle.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\bin\Debug\netcoreapp2.1\Random King in the Castle.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\bin\Debug\netcoreapp2.1\Random King in the Castle.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Random King in the Castle\Random King in the Castle\obj\Debug\netcoreapp2.1\Random King in the Castle.csprojAssemblyReference.cache
